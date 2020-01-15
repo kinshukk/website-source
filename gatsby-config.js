@@ -6,6 +6,7 @@ module.exports = {
     social: {
       twitter: `kashyap-kinshuk`,
     },
+				siteUrl: "https://kinshukk.github.io",
   },
   plugins: [
     {
